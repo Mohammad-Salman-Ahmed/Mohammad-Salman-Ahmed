@@ -16,5 +16,5 @@
 - Backend Development
 
 ### 📫 Connect with Me
-- LinkedIn: https://linkedin.com/in/yourname
+- LinkedIn: https://linkedin.com/in/mohammad-salman-ahmed
 - Email: reachmdsalman@gmail.com
