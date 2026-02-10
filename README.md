@@ -7,7 +7,7 @@
 - Java, OOPs, JDBC
 - Spring Boot (Basics)
 - HTML, CSS, JavaScript
-- SQL, MySQL
+- SQL
 - Git & GitHub
 
 ### 🌱 Currently Learning
