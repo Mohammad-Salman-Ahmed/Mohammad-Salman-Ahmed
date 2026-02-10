@@ -1,7 +1,7 @@
 ## Hi 👋 I'm Mohammad Salman Ahmed
 
 🎓 2026 CSE Graduate  
-💻 Java Full Stack Developer (Learning)  
+💻 Java Full Stack Developer  
 
 ### 🔧 Skills
 - Java, OOPs, JDBC
